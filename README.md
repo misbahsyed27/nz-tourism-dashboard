@@ -12,7 +12,6 @@ This project explores **New Zealand tourism trends**, analyzing visitor satisfac
 ## Tools Used
 - **Power BI** – Data visualization & dashboard creation  
 - **Excel** – Data cleaning & preprocessing  
-- **SQL (if applicable)** – Data extraction & transformation  
 
 
 
