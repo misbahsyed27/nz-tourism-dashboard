@@ -1,4 +1,4 @@
-# NZ Tourism Data Dashboard 📊
+# NZ Tourism Data Dashboard 
 
 ## Overview
 This project explores **New Zealand tourism trends**, analyzing visitor satisfaction, spending patterns, popular activities, and Net Promoter Score (NPS) using **Power BI & Excel**.
